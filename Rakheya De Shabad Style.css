@@ -1,0 +1,28 @@
+body {
+    font-family: 'Raavi', 'Noto Sans Gurmukhi', 'GurbaniAkhar', sans-serif;
+    font-size: 18px;
+    line-height: 1.7;
+    background-color: black;
+    padding: 20px;
+    color:rgb(249, 233, 233);
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    color: rgb(249, 233, 233);
+}
+a {
+    display: block;
+    margin-bottom: 15px;
+    text-decoration: none;
+    background-color: rgb(201, 178, 178);
+    padding: 6px 12px;
+    border-radius: 10px;
+    color: black;
+}
+a:hover {
+    background-color: #c5c5c5;
+}
+hr {
+    margin: 20px 0;
+}
